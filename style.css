@@ -256,21 +256,27 @@ footer button {
 
 }
 
-.social-links a {
-  margin: 0 15px;
-  text-decoration: none;
-  color: #fff;
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
 }
 
-.social-links {
-  margin-bottom: 100px;
-}
-
-.social-links img {
-  width: 65px;
+.social-media img {
+  width: 48px;
   height: auto;
-  top: 6.4px;
-  left: 6.4px;
-  gap: 0px;
-  opacity: 0px;
+  border-radius: 8px;
+
+}
+.insta{
+  
+  border-radius: 8px;
+  margin: 40px;
+}
+
+x{
+  border-radius: 8px;
+  margin: 40px;
+  
 }
